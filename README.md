@@ -1,5 +1,5 @@
 Hi, I'm Aastha! 
-I'm currently learning Python and building my first coding projects.
+I'm currently learning Python and C,building my first coding projects.
 My goal is to Build fun projects, learn step-by-step, and strengthen my problem-solving skills
 
 Projects in this Repository:
