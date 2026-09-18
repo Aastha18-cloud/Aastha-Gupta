@@ -1,10 +1,8 @@
 import random
-print("===================")
 print("Rock Paper Scissors")
-print("===================")
-print("1) ✊")
-print("2) ✋")
-print("3) ✌️")
+print("1) rock")
+print("2) paper")
+print("3) scissor")
 player=int(input("Pick a number: "))
 print("You chose:", player)
 player2=random.randint(1,3)
